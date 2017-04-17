@@ -24,8 +24,8 @@ It has the following features:
     5. $ psql tournament  
          *(Command Line will change to PostreSQL command line)*
     6. => \i tournament.sql 
-    7. => \q 
-         *(Command line will change back to Vagrant)*  
+    7. => \q  
+         *(Command line will change back to Vagrant)*
 5. You may then access the database files through Python by importing the *tournament.py* file. 
     An example file is included, python tournament_test.py.
 
