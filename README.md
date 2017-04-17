@@ -12,7 +12,7 @@ It has the following features:
 * Tournament data can be cleared.
 
 ## Installation and running
-1. The database can be run in a Vagrant an environment. You can find installation instructions for Vagrant and Virtual Box on [Udacity's website.](https://classroom.udacity.com/nanodegrees/nd004/parts/af045689-1d81-46e7-8a3b-ad05de1142ce/modules/353202897075460/lessons/3423258756/concepts/14c72fe3-e3fe-4959-9c4b-467cf5b7c3a0). 
+1. The database can be run in a Vagrant an environment. You can find installation instructions for Vagrant and Virtual Box on [Udacity's website.](https://classroom.udacity.com/nanodegrees/nd004/parts/af045689-1d81-46e7-8a3b-ad05de1142ce/modules/353202897075460/lessons/3423258756/concepts/14c72fe3-e3fe-4959-9c4b-467cf5b7c3a0)
 2. Instead of using the Vagrant Configuration provided by Udacity, download and use this repository.
 3. To create the tournament database and its associated relations, first open your command line console (as suggested in the Udacity example) in this repository's folder (TobinTourney).
 4. Enter the following commands:
